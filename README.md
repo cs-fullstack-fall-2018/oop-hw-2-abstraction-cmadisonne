@@ -18,3 +18,6 @@ This worked just fine, but we ended up with LOTS of variations of our code base 
 Object Oriented programming evolved from this practice and was a big leap.
 
 
+My Answer: One of the major benefits of OOP is that it reduces complexity and redundancy. 
+
+
